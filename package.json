@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Eleazar1991/API/issues"
   },
-  "homepage": "https://github.com/Eleazar1991/API#readme"
+  "homepage": "https://github.com/Eleazar1991/API#readme",
+  "dependencies": {
+    "aws-sdk": "^2.229.1"
+  }
 }
