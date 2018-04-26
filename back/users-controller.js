@@ -8,7 +8,7 @@ module.exports = {
 }
 
 function createUser(req, res) {
-    
+    console.log(req);
 }
 
 
